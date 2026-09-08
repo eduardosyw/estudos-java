@@ -8,5 +8,6 @@ Cada pasta contém um projeto independente, com seu próprio README explicando o
 | Projeto | Descrição |
 |---|---|
 | [calculadora-imc](./calculadora-imc/) | Calculadora de IMC com interface gráfica (JavaFX) |
+| [relogio-digital](./relogio-digital) | Relógio digital em tempo real com interface gráfica (JavaFX) |
 
 > Este repositório será atualizado conforme eu for concluindo novos projetos do curso.
