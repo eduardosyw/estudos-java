@@ -1,0 +1,15 @@
+# Compilados Java
+*.class
+
+# Pastas de build
+target/
+build/
+out/
+
+# IDEs
+.idea/
+.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
