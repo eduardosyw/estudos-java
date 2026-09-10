@@ -10,5 +10,6 @@ Cada pasta contém um projeto independente, com seu próprio README explicando o
 | [calculadora-imc](./calculadora-imc/) | Calculadora de IMC com interface gráfica (JavaFX) |
 | [relogio-digital](./relogio-digital) | Relógio digital em tempo real com interface gráfica (JavaFX) |
 | [gerador-de-senhas](./gerador-de-senhas) | Gerador de senhas aleatórias com validação de entrada (JavaFX) |
+| [jogo-da-forca](./jogo-da-forca) | Jogo da forca no terminal com sorteio de palavras |
 
 > Este repositório será atualizado conforme eu for fazendo novos projetos.
