@@ -14,5 +14,6 @@ Cada pasta contém um projeto independente, com seu próprio README explicando o
 | [editor-de-texto](./editor-de-texto) | Editor de texto básico com salvamento de arquivo (JavaFX) |
 | [mini-web-browser](./mini-web-browser) | Navegador web básico com histórico de navegação (JavaFX) |
 | [lista-de-compras](./lista-de-compras) | Lista de compras com adicionar, remover e exportar itens (JavaFX) |
+| [clima-em-tempo-real](./clima-em-tempo-real) | Consulta de clima em tempo real via API externa |
 
 > Este repositório será atualizado conforme eu for fazendo novos projetos.
