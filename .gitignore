@@ -17,3 +17,9 @@ out/
 
 # Sistema
 .DS_Store
+
+# Chaves e credenciais (NUNCA subir isso ao GitHub)
+api-key.txt
+*.env
+secrets.properties
+
